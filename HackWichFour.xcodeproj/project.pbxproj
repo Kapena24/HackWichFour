@@ -13,6 +13,7 @@
 		316E38B92ABA603800A0B322 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 316E38B72ABA603800A0B322 /* Main.storyboard */; };
 		316E38BB2ABA603900A0B322 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 316E38BA2ABA603900A0B322 /* Assets.xcassets */; };
 		316E38BE2ABA603900A0B322 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 316E38BC2ABA603900A0B322 /* LaunchScreen.storyboard */; };
+		316E38C62ABA695300A0B322 /* secondViewControler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316E38C52ABA695300A0B322 /* secondViewControler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		316E38BA2ABA603900A0B322 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		316E38BD2ABA603900A0B322 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		316E38BF2ABA603900A0B322 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		316E38C52ABA695300A0B322 /* secondViewControler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewControler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				316E38B32ABA603800A0B322 /* SceneDelegate.swift */,
 				316E38B52ABA603800A0B322 /* ViewController.swift */,
 				316E38B72ABA603800A0B322 /* Main.storyboard */,
+				316E38C52ABA695300A0B322 /* secondViewControler.swift */,
 				316E38BA2ABA603900A0B322 /* Assets.xcassets */,
 				316E38BC2ABA603900A0B322 /* LaunchScreen.storyboard */,
 				316E38BF2ABA603900A0B322 /* Info.plist */,
@@ -141,6 +144,7 @@
 				316E38B62ABA603800A0B322 /* ViewController.swift in Sources */,
 				316E38B22ABA603800A0B322 /* AppDelegate.swift in Sources */,
 				316E38B42ABA603800A0B322 /* SceneDelegate.swift in Sources */,
+				316E38C62ABA695300A0B322 /* secondViewControler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
